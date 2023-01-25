@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/342c306f-2d85-43f6-a539-bb73a7c09656.svg)](https://wakatime.com/@342c306f-2d85-43f6-a539-bb73a7c09656)
+
 ### Hi there 👋
 
 <!--
