@@ -1,18 +1,10 @@
 [![wakatime](https://wakatime.com/badge/user/342c306f-2d85-43f6-a539-bb73a7c09656.svg)](https://wakatime.com/@342c306f-2d85-43f6-a539-bb73a7c09656)
 
-### Hi there 👋
-
-<!--
-**Roman-Andr/roman-andr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+Java, Kotlin, Groovy, Python3, C#, C++,
+SQL, MongoDB, MySQL, Docker, Docker compose,
+OOP, DRY, KISS, SOLID, REST, MVC, TDD, BDD, DDD,
+Maven, Gradle, Git, GitHub/GitLab CI/CD, Jenkins, Linux, VMWare, VirtualBox, PostMan, Jupyter Notebook
+ClickUp, Trello, Scrum, Agile, Figma
+Bukkit, Spigot, Unity, Arduino, Ktlint,
+HTML5, CSS3, JavaScript, ReactJs, Redux, SASS, LESS, SCSS, Webpack, Babel
