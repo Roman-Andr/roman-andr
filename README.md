@@ -2,10 +2,10 @@
 
 # Skills
 Java, Kotlin, Groovy, Python3, C#, C++,
-SQL, MySQL, PostgreSQL, MongoDB, MySQL, Docker, Docker compose,
-OOP, DRY, KISS, SOLID, REST, MVC, TDD, BDD, DDD,
+SQL, MySQL, PostgreSQL, MongoDB, MySQL, Docker, Docker compose,k8s
+OOP, YAGNI, DRY, KISS, SOLID, REST, MVC, TDD, BDD, DDD,
 Maven, Gradle, Git, GitHub/GitLab CI/CD, Jenkins, Linux, VMWare, VirtualBox, PostMan, Jupyter Notebook
 ClickUp, Trello, Scrum, Agile, Figma
-Bukkit, Spigot, Unity, Arduino, Ktlint, Django, Stable Diffusion
-HTML5, CSS3, JavaScript, ReactJs, Redux, SASS, LESS, SCSS, Webpack, Babel, Axios
+Bukkit, Spigot, Unity, Arduino, Ktlint, Stable Diffusion
+HTML5, CSS3, JavaScript, ReactJs, Redux, SASS, LESS, SCSS, Webpack, Babel, Axios, Django
 JSON, YAML, Markdown
