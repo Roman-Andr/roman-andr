@@ -8,4 +8,4 @@ Maven, Gradle, Git, GitHub/GitLab CI/CD\ Jenkins, Linux, VMWare, VirtualBox, Pos
 ClickUp, Trello, Scrum, Agile, Figma\
 Bukkit, Spigot, Unity, Arduino, Ktlint, Stable Diffusion\
 HTML5, CSS3, JavaScript, ReactJs, Redux, SASS, LESS, SCSS, Webpack, Babel, Axios, Django\
-JSON, YAML, Markdown\
+JSON, YAML, Markdown
