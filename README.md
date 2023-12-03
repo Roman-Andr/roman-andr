@@ -14,3 +14,8 @@ JSON, YAML, Markdown
 [![CodeWars](https://www.codewars.com/users/Roman-Andr/badges/large)](https://www.codewars.com/r/Roman-Andr)
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/RomanAndr?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/RomanAndr/)
+
+# Contact
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RomanAndr)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrroman07@gmail.com)
+
