@@ -9,7 +9,7 @@ HTML5, CSS3, JavaScript, ReactJs, Redux, SASS, LESS, SCSS, Webpack, Babel, Axios
 JSON, YAML, Markdown
 
 # Badges
-[![wakatime](https://wakatime.com/badge/user/342c306f-2d85-43f6-a539-bb73a7c09656.svg)](https://wakatime.com/@342c306f-2d85-43f6-a539-bb73a7c09656)
+[![wakatime](https://wakatime.com/badge/user/342c306f-2d85-43f6-a539-bb73a7c09656.svg?style=for-the-badge)](https://wakatime.com/@342c306f-2d85-43f6-a539-bb73a7c09656)
 
 [![CodeWars](https://www.codewars.com/users/Roman-Andr/badges/large)](https://www.codewars.com/r/Roman-Andr)
 
