@@ -1,11 +1,12 @@
 # Skills
 Java, Kotlin, Python3, C#, C++\
 SQL, MySQL, PostgreSQL, MongoDB, Docker, Docker compose, k8s\
-OOP, YAGNI, DRY, KISS, SOLID, REST, MVC, TDD, BDD, DDD\
+OOP, DRY, KISS, YAGNI, SOLID, REST, MVC, TDD, BDD, DDD, SPA, FSD\
 Maven, Gradle, Groovy, Git, GitHub/GitLab CI/CD, Jenkins, Linux, VMWare, VirtualBox, PostMan, Jupyter Notebook\
-ClickUp, Trello, Scrum, Agile, Figma\
+ClickUp, Trello, Scrum, Agile, Kanban, Figma\
 Bukkit, Spigot, Unity, Arduino, Ktlint, Stable Diffusion\
-HTML5, CSS3, JavaScript, ReactJs, Redux, SASS, LESS, SCSS, Webpack, Babel, Axios, Django\
+HTML5, CSS3, ReactJs, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
+Django, Axios, JavaScript, TypeScript\
 JSON, YAML, Markdown
 
 # Badges
@@ -17,9 +18,10 @@ JSON, YAML, Markdown
 
 # Education
 - ### Courses
-  - [Stepik - Web  development for beginners: HTML and CSS](https://stepik.org/cert/1984350)
-  - [Stepik - Introduction to Programming (C++)](https://stepik.org/cert/1584427)
-  - [Stepik - Designing in C#](https://stepik.org/cert/1251404)
+  - [Stepik - Web  development for beginners: HTML and CSS](https://stepik.org/cert/1984350?lang=en)
+  - [Stepik - Introduction to Programming (C++)](https://stepik.org/cert/1584427?lang=en)
+  - [Stepik - Designing in C#](https://stepik.org/cert/1251404?lang=en)
+  - [Stepik - Docker for beginners + hands-on experience](https://stepik.org/cert/2359740?lang=en)
   - [Sololearn - HTML](https://sololearn.com/certificates/CT-UPRSYSWE)
   - [Sololearn - CSS](https://sololearn.com/certificates/CT-8A29LKPD)
   - [Sololearn - C#](https://sololearn.com/certificates/CT-2JYMW6VT)
