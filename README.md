@@ -5,7 +5,7 @@ OOP, DRY, KISS, YAGNI, SOLID, REST, MVC, TDD, BDD, DDD, SPA, FSD\
 Maven, Gradle, Groovy, Git, GitHub/GitLab CI/CD, Jenkins, Linux, VMWare, VirtualBox, PostMan, Jupyter Notebook\
 ClickUp, Trello, Scrum, Agile, Kanban, Figma, Pixso\
 Bukkit, Spigot, Unity, Arduino, Ktlint, Stable Diffusion\
-HTML5, CSS3, ReactJs, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
+HTML5, CSS3, React, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
 Django, Axios, JavaScript, TypeScript\
 JSON, YAML, Markdown
 
