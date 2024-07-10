@@ -1,5 +1,5 @@
 # Skills
-Java, Kotlin, Python3, C#, C++\
+Java, Kotlin, Python, C#, C++\
 SQL, MySQL, PostgreSQL, MongoDB, Docker, Docker compose, k8s\
 OOP, DRY, KISS, YAGNI, SOLID, REST, MVC, TDD, BDD, DDD, SPA, FSD\
 Maven, Gradle, Groovy, Git, GitHub/GitLab CI/CD, Jenkins, Linux, VMWare, VirtualBox, PostMan, Jupyter Notebook\
