@@ -19,5 +19,5 @@ JSON, YAML, Markdown
 
 # Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RomanAndr)
-[![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/andrroman)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%232E87FB.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romanandr)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrroman07@gmail.com)
