@@ -6,7 +6,7 @@ Git, GitHub/GitLab CI/CD, Jenkins, Linux, VMWare, VirtualBox, PostMan\
 Maven, Gradle, Groovy, Jupyter Notebook\
 ClickUp, Trello, Scrum, Agile, Kanban, Figma, Pixso\
 Bukkit, Spigot, Unity, Arduino, Ktlint, Stable Diffusion\
-HTML5, CSS3, React, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
+HTML, CSS, React, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
 Django, Axios, JavaScript, TypeScript\
 JSON, YAML, Markdown
 
