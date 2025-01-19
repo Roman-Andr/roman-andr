@@ -7,7 +7,7 @@ Maven, Gradle, Groovy, Jupyter Notebook\
 ClickUp, Trello, Scrum, Agile, Kanban, Figma, Pixso\
 Bukkit, Spigot, Unity, Arduino, Ktlint, Stable Diffusion\
 HTML, CSS, React, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
-Django, Axios, JavaScript, TypeScript\
+Django, Flask, SQLAlchemy, Axios, JavaScript, TypeScript\
 JSON, YAML, Markdown
 
 # Badges
