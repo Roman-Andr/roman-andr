@@ -10,7 +10,7 @@ Bukkit, Spigot, Unity, Arduino\
 HTML, CSS, React, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
 FastAPI, Django, Flask, SQLAlchemy, Pydantic\
 bash scripts, ollama, vllm, infinity, litellm, mcp servers\
-Axios, JavaScript, TypeScript\
+uv, Ruff, mypy, Axios, JavaScript, TypeScript\
 JSON, YAML, Markdown, LaTeX
 
 # Badges
