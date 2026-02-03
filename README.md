@@ -8,8 +8,8 @@ Maven, Gradle, Groovy, Jupyter Notebook\
 ClickUp, Trello, Scrum, Agile, Kanban, Figma, Cherry Studio\
 Bukkit, Spigot, Unity, Arduino\
 HTML, CSS, React, Redux, Next.js, SASS, LESS, SCSS, Webpack, Babel\
-FastAPI, Django, Flask, SQLAlchemy, Pydantic, aiogram\
-bash scripts, ollama, vllm, infinity, litellm, mcp servers\
+FastAPI, Django, Flask, SQLAlchemy, Pydantic, Pydantic AI, aiogram\
+bash scripts, ollama, vllm, infinity, litellm, mcp servers, OpenTelemetry\
 uv, Ruff, mypy, Axios, JavaScript, TypeScript\
 JSON, YAML, Markdown, LaTeX, Typst
 
