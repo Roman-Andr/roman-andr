@@ -1,6 +1,6 @@
 # Skills
 Python, Java, Kotlin, C#, C++, Go\
-SQL, MySQL, PostgreSQL, TimescaleDB, MongoDB, SQLite3\
+SQL, MySQL, PostgreSQL, TimescaleDB, MongoDB, SQLite3, MinIO\
 Docker, Docker compose, k8s, helm, GitHub/GitLab/Gitee CI/CD\
 OOP, DRY, KISS, YAGNI, SOLID, REST, MVC, TDD, SPA, FSD\
 Git, Jenkins, Linux, openEuler, VMWare, VirtualBox, PostMan\
