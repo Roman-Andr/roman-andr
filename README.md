@@ -12,7 +12,7 @@ FastAPI, Django, Flask, SQLAlchemy, Pydantic, Pydantic AI, aiogram\
 bash scripts, ollama, vllm, infinity, litellm, mcp servers, OpenTelemetry\
 uv, Ruff, mypy, Axios, JavaScript, TypeScript\
 JSON, YAML, Markdown, LaTeX, Typst\
-Claude Code, Open Code
+Codex, Claude Code, OpenCode
 
 # Badges
 [![wakatime](https://wakatime.com/badge/user/342c306f-2d85-43f6-a539-bb73a7c09656.svg?style=for-the-badge)](https://wakatime.com/@342c306f-2d85-43f6-a539-bb73a7c09656)
